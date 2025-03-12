@@ -5,21 +5,21 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Kiosk {
+    //메뉴 카테고리 리스트
     private final ArrayList<Menu> menuList;
+    //메뉴 아이템 리스트
     private ArrayList<MenuItem> menuItemList;
+    //스캐너 입력
     private final Scanner sc;
-
-    //생성자
+    //생성자 : 객체 초기화
     public Kiosk(ArrayList<Menu> menuList, Scanner sc) {
         this.menuList = menuList;
         this.sc = sc;
     }
-
     //시작
     public void start(Menu tarot, Menu fate, Menu naming) {
         displayMain(tarot, fate, naming);
     }
-
     //메뉴 선택
     public void choice(Menu tarot, Menu fate, Menu naming) {
         boolean exitFlag = true;
@@ -59,21 +59,15 @@ public class Kiosk {
     private void displayMain(Menu tarot, Menu fate, Menu naming) {
         System.out.println("\n은주의 타로 가게에 오신 것을 환영합니다.");
         System.out.println("\n타로 메뉴 로딩중....");
-
         thread();
-
         System.out.println("\n[ 은주의 타로가게 ]");
-
-        //메뉴 종류
         System.out.println("TAROT MENU");
         System.out.println("--------------------------------------------------------------------------");
         menuAddCategory(tarot, fate, naming);
-
         System.out.println("0. 종료");
         System.out.println("--------------------------------------------------------------------------");
     }
-
-    //메뉴 카테고리
+    //메뉴 카테고리 표시
     private void menuAddCategory(Menu tarot, Menu fate, Menu naming) {
         if (menuList.isEmpty()) {
             menuList.add(tarot);
@@ -85,10 +79,8 @@ public class Kiosk {
             System.out.println(i + 1 + ". " + menu.getName());
         }
     }
-
-    //Thread
+    //Thread : 5초 지연
     private void thread() {
-        //Thread 이용, 메뉴 5초 후 출력
         try {
             for (int i = 1; i <= 5; i++) {
                 Thread.sleep(1000); // 1초 지연
@@ -97,7 +89,6 @@ public class Kiosk {
             e.printStackTrace();
         }
     }
-
     //카테고리 리스트
     private void getTarotList() {
         if (!menuItemList.isEmpty()) {
@@ -105,7 +96,6 @@ public class Kiosk {
                 MenuItem item = menuItemList.get(i);
                 System.out.println(i + 1 + ". " + item.Tarottype());
             }
-
             //선택한 메뉴 보여주기
             int indexInput = indexValidation();
             if (indexInput >= 0 && indexInput <= menuItemList.size()){
@@ -119,7 +109,6 @@ public class Kiosk {
             System.out.println("타로 리스트가 비어 있습니다.");
         }
     }
-
     //입력 숫자 유효성 검사
     private int indexValidation() {
         while (true) {
