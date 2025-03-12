@@ -1,6 +1,7 @@
 package com.example.kiosk;
 
 public class MenuItem {
+//    private final String tarottype;
     private String name;
     private String price;
     private String explain;
