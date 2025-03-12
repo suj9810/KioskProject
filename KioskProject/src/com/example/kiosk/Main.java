@@ -6,7 +6,6 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         //kiosk 객체 생성
-//        Kiosk kiosk = new Kiosk(menuList, sc);
         Scanner sc = new Scanner(System.in);
         ArrayList<Menu> menuList = new ArrayList<>();
         Kiosk kiosk = new Kiosk(menuList, sc);
