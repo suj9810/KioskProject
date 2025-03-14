@@ -61,3 +61,18 @@ kiosk <br/>
     ├── MenuItem.java               # 메뉴 아이템 정보 <br/>
     ├── Order.java                  # 주문 정보 관리 <br/>
     ├── RandomName.java             # 작명 시스템 기능
+
+<br/>
+
+---
+
+## 🎬 실행 화면
+
+|실행화면 1|실행화면 2|실행화면 3|실행화면 4|실행화면 5|실행화면 6|
+|---|---|---|---|---|---|
+|![11111111 2025-03-14](https://github.com/user-attachments/assets/c288040a-97a3-4c1e-804c-1b9c86d6a25d)|![222222025-03-14](https://github.com/user-attachments/assets/0bd6f3ff-000b-4eed-9479-d8cf10e46793)|![333333 2025-03-14](https://github.com/user-attachments/assets/85cb2431-b22e-4c71-94c7-b10de1a78f71)|![4444444 2025-03-14](https://github.com/user-attachments/assets/fb2f1a95-e168-42c2-bae4-62e0936473f6)|![5555555 2025-03-14 115705](https://github.com/user-attachments/assets/55bb4fe8-4fe4-498e-abe8-6a92222d033f)|![6666666 2025-03-14 115824](https://github.com/user-attachments/assets/9e6dddc4-6260-4606-b3df-1badbd9b8870)
+
+
+
+
+
