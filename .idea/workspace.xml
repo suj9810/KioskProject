@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ec8aa5b-d8b2-4077-9a7b-8a462143d01c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/spring/java-course/src/chapter2/capsulation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/java-course/src/chapter2/capsulation/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/java-course/src/chapter2/capsulation/v1/DataStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/java-course/src/chapter2/capsulation/v1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/java-course/src/chapter2/capsulation/v2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/java-course/src/chapter2/capsulation/v2/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/java-course/src/chapter2/finalexemple/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/java-course/src/chapter2/interfaceexample/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/java-course/src/chapter2/interfaceexample/LuxuryCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/java-course/src/chapter2/interfaceexample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/java-course/src/chapter2/interfaceexample/SpeedCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/java-course/src/chapter2/interfaceexample/v1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/java-course/src/chapter2/interfaceexample/v1/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/java-course/src/chapter2/interfaceexample/v1/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/java-course/src/chapter2/interfaceexample/v2/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/java-course/src/chapter2/interfaceexample/v2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/java-course/src/chapter2/interitance/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/java-course/src/chapter2/interitance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/java-course/src/chapter2/interitance/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/java-course/src/special/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/java-course/src/special/자판기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorProject/src/com/example/calculator/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorProject/src/com/example/calculator/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/IntroductDetail/IntroductDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/IntroductDetail/IntroductDetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/java-course/java-course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring/java-course/java-course.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/java-course/src/chapter2/finalexemple/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring/java-course/src/chapter2/finalexemple/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;suj9810&quot;
+  }
+}</component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="preview" />
+      </list>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/suj9810/Introduction.git&quot;,
+    &quot;accountId&quot;: &quot;59a6d83b-7cc4-4c8c-99cb-6d333f6d6673&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2tCwOvV3ews1G5pJqDzHV8tWDit" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;lv2&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/spartaProject&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ec8aa5b-d8b2-4077-9a7b-8a462143d01c" name="Changes" comment="" />
+      <created>1739869337071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739869337071</updated>
+      <workItem from="1739869340972" duration="36000" />
+      <workItem from="1741064537263" duration="165000" />
+      <workItem from="1741064734340" duration="19000" />
+      <workItem from="1741064828207" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
